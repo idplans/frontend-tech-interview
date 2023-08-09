@@ -1,4 +1,4 @@
-# frontend-tech-interview
+# Frontend Technical Interview
 
 This interview tests the candidates ability to ingest product requirements and implement them using React, React Custom Hooks, Typescript, and Redux. The candidate is able to use google and collaborate with ID Plans team members. Hints will also be given when necessary.
 

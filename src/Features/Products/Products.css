@@ -1,0 +1,38 @@
+.product-page-title {
+  margin-top: 10px;
+  font-size: 20px;
+}
+
+.category-container {
+  padding: 10px;
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.category, .selected-category {
+  font-size: 12px;
+  margin: 10px;
+  width: 120px;
+  height: 60px;
+  background-color: #cf5c36;
+  color: white;
+  border-radius: 5px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  cursor: pointer;
+  text-transform: capitalize;
+}
+
+.selected-category {
+  background-color: white;
+  border: 2px solid #cf5c36;
+  color: #cf5c36;
+  box-sizing: border-box;
+}
+
+.product-container {
+  margin: 0 150px;
+}
+
+/* Add Products List Styling Here */
